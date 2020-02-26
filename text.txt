@@ -2,9 +2,5 @@ Git tutorial.
 Edit file.
 Check updated.
 Edited on remote.
-<<<<<<< HEAD
 Modified on local.
-=======
-
 Modified on remote.
->>>>>>> fb0b34ee92b0b06777ec5ffa4cc21f29d6d5f72a
