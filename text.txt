@@ -1,3 +1,4 @@
 Git tutorial.
 Edit file.
-Check updated
+Check updated.
+Edited on remote.
